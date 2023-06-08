@@ -220,6 +220,7 @@ namespace Lesson_7_Homework
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("No such account exists");
+                    Console.WriteLine();
                 }
             }
         }
